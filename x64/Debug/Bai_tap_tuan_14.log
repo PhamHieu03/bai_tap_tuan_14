@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+D:\lap trinh\C++\bai mo dau\Bai_tap_tuan_14\FileName.cpp(121,13): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\lap trinh\C++\bai mo dau\Bai_tap_tuan_14\FileName.cpp(124,13): warning C4566: character represented by universal-character-name '\u1EC1' cannot be represented in the current code page (1252)
+D:\lap trinh\C++\bai mo dau\Bai_tap_tuan_14\FileName.cpp(124,13): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\lap trinh\C++\bai mo dau\Bai_tap_tuan_14\FileName.cpp(127,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\lap trinh\C++\bai mo dau\Bai_tap_tuan_14\FileName.cpp(127,13): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+  Bai_tap_tuan_14.vcxproj -> D:\lap trinh\C++\bai mo dau\Bai_tap_tuan_14\x64\Debug\Bai_tap_tuan_14.exe
